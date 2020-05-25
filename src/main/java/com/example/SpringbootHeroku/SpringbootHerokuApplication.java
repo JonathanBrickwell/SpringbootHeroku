@@ -19,6 +19,6 @@ class HelloController {
 
 	@GetMapping("/")
 	String hello() {
-		return "This tutorial is the best. All hail Kristijan.";
+		return "This tutorial is the best. All hail the great Kristijan.";
 	}
 }
